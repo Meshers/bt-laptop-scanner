@@ -6,6 +6,8 @@ Displays Scan number, Scan Interval, BT Name, MAC Address, Number of devices sca
 Records the start time and end time of the scanning along with the total number of devices scanned since the beginning of the application  
 MAC Address -> Bluetooth names mapping over the entire program scan interval  
 
+Detailed explainataion: https://thenetworkcalls.blogspot.in/2017/02/week-6-laptop-bluetooth-scanner.html  
+
 Dependencies:  
 sudo apt-get install bluetooth bluez python-bluez  
 
